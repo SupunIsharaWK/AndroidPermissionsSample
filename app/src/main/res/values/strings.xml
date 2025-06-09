@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidPermissionsSample</string>
+    <string name="grant_camera_permission">Grant Camera Permission</string>
+    <string name="go_to_xml_permission_screen">Go to XML Permission Screen</string>
+    <string name="go_to_compose_permission_screen">Go to Compose Permission Screen</string>
 </resources>
