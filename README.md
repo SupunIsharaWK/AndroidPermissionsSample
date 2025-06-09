@@ -101,6 +101,6 @@ AndroidPermissionsSample/
 ```
 
 ## 📸 Screenshots
-![XML Permission Screen](screenshots/XML_based_UI.png)
-![Compose Permission Screen-1](screenshots/Composer_Based_UI-1.png)
-![Compose Permission Screen-2](screenshots/Composer_Based_UI-2.png)
+<img src="screenshots/XML_based_UI.png" alt="XML Screenshot" width="300"/>
+<img src="screenshots/Composer_Based_UI-1.png" alt="XML Screenshot-1" width="300"/>
+<img src="screenshots/Composer_Based_UI-2.png" alt="XML Screenshot-2" width="300"/>
