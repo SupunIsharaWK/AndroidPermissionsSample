@@ -72,7 +72,7 @@ Bluetooth / Storage
 
 
 ## 📁 Project Structure
-
+```
 AndroidPermissionsSample/
 ├── app/
 │ ├── src/
@@ -98,5 +98,5 @@ AndroidPermissionsSample/
 │ └── libs.versions.toml
 ├── settings.gradle.kts
 └── README.md
-
+```
 ```kotlin
