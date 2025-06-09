@@ -99,4 +99,8 @@ AndroidPermissionsSample/
 ├── settings.gradle.kts
 └── README.md
 ```
-```kotlin
+
+## 📸 Screenshots
+![XML Permission Screen](screenshots/XML_based_UI.png)
+![Compose Permission Screen-1](screenshots/Composer_Based_UI-1.png)
+![Compose Permission Screen-2](screenshots/Composer_Based_UI-2.png)
